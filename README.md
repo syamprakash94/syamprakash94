@@ -1,11 +1,11 @@
-Hi 👋 My name is Anandu S Nande 🙌
+Hi 👋 My name is SYAM PRAKASH 🙌
 ==================================
 
-Python Developer
+MERN Developer
 ----------------
 
-* 🌍  I'm based in Trivandrum
-* 🧠  I'm learning Django Rest Framework
+* 🌍  I'm based in Kochi
+* 🧠  I'm learning web development
 
 ### Skills
 
