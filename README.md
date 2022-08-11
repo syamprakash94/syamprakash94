@@ -1,4 +1,4 @@
-Hi 👋 My name is SYAM
+Hi 👋 My name is SYAM PRAKASH
 =============================
 
 I am MERN developer
